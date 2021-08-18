@@ -1,1 +1,1 @@
-# Next generation HA
+# High availability engine.
